@@ -1,0 +1,71 @@
+section{
+    background: #F8F9FC;
+}
+
+.title-text1{
+    margin-top: 20px;
+     font-weight: 600;
+     text-align: center;
+     font-size: 28px !important;
+ letter-spacing: .5px;
+ padding-top: 20px;
+ }
+ 
+ 
+ .text-p {
+     font-weight: 400;
+ font-size: 16px;
+ line-height: 1.5;
+ color: #8492a6 !important;
+ font-style: normal;
+ text-align: center;
+ paddind-bottom: 25px;
+ 
+ }
+p{
+    font-weight: 600;
+    
+}
+.card:hover .cours-img {
+transform: scale(1.2);
+}
+
+
+.cours-img {
+    transition: all .7s;
+}
+.card {
+    overflow: hidden;
+    margin-bottom: 40px;
+    
+}
+.card-body {
+  text-align: center;
+    width: 316px;
+    margin-left: 35px;
+}
+
+.card-text{
+    font-size: 18px;
+    font-weight: 600;
+    align-items: start;
+    text-decoration: none;
+    color: #000;
+}
+.card-text:hover{
+    color: #8CB369;
+}
+
+p{
+    color: #8492a6 !important;
+}
+
+a{
+    color: #222;
+    text-decoration: none;
+    align-items: flex-start;
+}
+
+h5 {
+    font-weight: 800;
+}
